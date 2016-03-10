@@ -1,2 +1,2 @@
 # 3D
-3D objecten (fotogrammetrie) uit de collectie van Erfgoed Leiden en Omstreken
+3D objecten (gemaakt met behulp van fotogrammetrie) uit de collectie van Erfgoed Leiden en Omstreken
